@@ -17,7 +17,29 @@ const DOMAINS = [
   'emailondeck.com',
   'temp-mail.org',
   'tempmail.net',
-  'mail.tm'
+  'mail.tm',
+  'daum.net',
+  'hanmail2.net',
+  'kakao.com',
+  'nate.com',
+  'tistory.com',
+  'paran.com',
+  'empal.com',
+  'empas.com',
+  'dreamwiz.com',
+  'freechal.com',
+  'lycos.co.kr',
+  'hanmir.com',
+  'chol.com',
+  'chollian.net',
+  'hitel.net',
+  'netsgo.com',
+  'unitel.co.kr',
+  'nownuri.net',
+  'kornet.net',
+  'hananet.net',
+  'hanafos.com',
+  'thrunet.com'
 ]
 
 const trim = text => text.replace(/^\s+|\s+$/g, '')
